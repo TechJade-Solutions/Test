@@ -8,3 +8,6 @@ Class Hello
 	 	System.out.println("Hello World!");
 	  }	
  };
+
+#Added by Singapore developer
+#Git pull and add comment
